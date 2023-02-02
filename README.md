@@ -10,9 +10,6 @@ The journey starts with the basics, such as arrays, linked lists, stacks, and qu
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
-## Getting Started
-Detailed instructions on how to set up the project and get it running on your local machine
-
 ## To-do List
 - [ ] Foundation (Math+FuzzBuzz)
 - [ ] Arrays
