@@ -17,7 +17,9 @@ Detailed instructions on how to set up the project and get it running on your lo
 - [ ] Foundation (Math+FuzzBuzz)
 - [ ] Arrays
 - [ ] Strings
-- [ ] More Coming
+- [ ] 
+### <span style="color:green">More Topics are Coming</span>
+
 
 ## Contribution Guidelines
 I appreciate your interest in contributing to this project! If you're looking to make a contribution, please keep in mind that I'm currently only accepting pull requests that optimize existing code.
