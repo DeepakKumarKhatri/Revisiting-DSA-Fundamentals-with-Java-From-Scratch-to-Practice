@@ -3,8 +3,8 @@
 - [X] Prime Number Different Approaches
 - [X] Fibonacci Number Different Approaches
 - [X] Count Digits in a Number
-- [ ] Digits of a Number
-- [ ] Reverse a Number
+- [x] Digits of a Number
+- [x] Reverse a Number
 - [ ] Inverse of a Number
 - [ ] Rotate a Number
 - [ ] GCD and LCM
