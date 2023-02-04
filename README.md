@@ -34,7 +34,7 @@ I appreciate your interest in contributing to this project! If you're looking to
 4. Provide a clear and concise description of your changes, and explain why they are necessary.
 5. Make sure that your changes are based on the latest version of the code.
 
-**Note:** We review all pull requests carefully, but I reserve the right to reject pull requests that do not meet our standards or do not align with the goals of the project.
+**Note:** I review all pull requests carefully, but I reserve the right to reject pull requests that do not meet these standards or do not align with the goals of the project.
 
 **Thank you for considering contributing to this project! I will look forward to reviewing your changes.**
 
