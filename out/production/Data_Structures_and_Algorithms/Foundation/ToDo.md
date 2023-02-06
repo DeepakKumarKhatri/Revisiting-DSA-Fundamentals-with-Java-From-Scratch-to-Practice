@@ -5,8 +5,8 @@
 - [X] Count Digits in a Number
 - [x] Digits of a Number
 - [x] Reverse a Number
-- [ ] Inverse of a Number
-- [ ] Rotate a Number
+- [x] Inverse of a Number
+- [x] Rotate a Number
 - [ ] GCD and LCM
 - [ ] Prime Factorization
 - [ ] Pythagorean Triplets

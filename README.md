@@ -11,7 +11,7 @@ The journey starts with the basics, such as arrays, linked lists, stacks, and qu
 - [License](#license)
 
 ## To-do List
-- [ ] Foundation (Math+FuzzBuzz)
+- [X] Foundation (Math+FuzzBuzz)
 - [ ] Arrays
 - [ ] Strings
 - [ ] More Coming
