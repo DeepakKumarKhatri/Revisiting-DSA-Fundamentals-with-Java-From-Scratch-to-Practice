@@ -27,6 +27,9 @@ public class CustomStack {
     public int size(){
         return list.size();
     }
+    public boolean search(int element){
+        return list.contains(element);
+    }
 }
 class Main{
     public static void main(String[] args) {
@@ -35,6 +38,7 @@ class Main{
         customStack.push(20);
         customStack.push(30);
         customStack.push(50);
+        System.out.println(customStack.search(50));
         System.out.println(customStack.size());
         System.out.println(customStack.peek());
         System.out.println(customStack.pop());
