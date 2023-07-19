@@ -5,6 +5,13 @@ Arrays are always passed to function as 'pass by reference'
 - [X] Barchart
 - [X] Binary Search
 - [X] Reverse the Array
-- [ ] Two Sum (Brute Force)
-- [ ] Will add more on the way
+- [X] Trapping Rain Water
+- [X] Best Time to Buy and Sell Stocks
+- [X] Maximum Sub Array
+- [X] Maximum Sub Array Sum
+- [X] Pairs In Array
+
+
+
+- Will add more on the way
 
