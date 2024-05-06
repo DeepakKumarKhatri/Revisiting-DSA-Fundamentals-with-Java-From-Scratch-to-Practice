@@ -2,7 +2,7 @@ package Foundation;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        fibonacciTillN(5);
+        fibonacciTillN(10);
     }
     public static void fibonacciTillN(int number){
         int a = 0;
