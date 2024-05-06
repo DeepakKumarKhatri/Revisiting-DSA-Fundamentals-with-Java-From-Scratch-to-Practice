@@ -3,11 +3,11 @@ package Foundation;
 public class PrimeNumber {
     public static void main(String[] args) {
         //3
-//        printPrimeInRange(5,15);
+        printPrimeInRange(5,15);
         // 2
-//        System.out.println(checkPrimeByFactorization(10));
+        System.out.println(checkPrimeByFactorization(10));
         // 1
-//        System.out.println(checkPrimes(10));
+        System.out.println(checkPrimes(10));
     }
 
     // 3
